@@ -1,0 +1,27 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime-workspace",
+				".sass-cache",
+				".jekyll-metadata",
+				"GemFile.lock"
+			],
+			"folder_exclude_patterns":
+			[
+				"_site",
+				".sass-cache",
+				"fonts",
+				"images",
+				"cleanup"
+			],
+			"path": "."
+		},
+		{
+			"path": "/Users/thinkbee/Dropbox/MyMarkdown/doc-scm"
+		}
+	]
+}
