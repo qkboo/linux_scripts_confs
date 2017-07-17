@@ -1,0 +1,10 @@
+[Unit]
+Description=Report changed ip address to server
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/root/my_ip_changed.sh
+
+[Install]
+WantedBy=multi-user.target
